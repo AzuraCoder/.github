@@ -29,23 +29,10 @@ Whether you're building a startup, improving your dev workflow, or contributing 
 
 ---
 
-## 📁 Featured Repositories
-
-Here are a few projects from our team:
-
-- [`project-name`](https://github.com/AzuraCoder/project-name) — Short description  
-- [`another-project`](https://github.com/AzuraCoder/another-project) — Another quick description  
-- *More coming soon...*
-
-> Looking to collaborate? Check out our active repositories or open a discussion!
-
----
-
 ## 💬 Get in Touch
 
-- 📫 Contact: [email@example.com]  
-- 🌐 Website: [azuracoder.dev](https://azuracoder.dev) *(if available)*  
-- 🐦 Twitter: [@AzuraCoder](https://twitter.com/AzuraCoder) *(if applicable)*
+- 📫 Contact: [muhamadrauliqbal.13@gmail.com]  
+- 🌐 Website: [azuracoder.dev](https://azuracoder.vercel.dev)
 
 ---
 
