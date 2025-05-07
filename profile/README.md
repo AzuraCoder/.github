@@ -1,7 +1,7 @@
 <h1 align="center">AzuraCoder</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/138140496?s=200&v=4" width="120" alt="AzuraCoder Logo" />
+  <img width="150" alt="logo-azuracoder" src="https://github.com/user-attachments/assets/d468bc2a-c2d2-4fd1-906e-7780d5f91ddb" />
 </p>
 
 <p align="center">
